@@ -1,2 +1,2 @@
 # first-contribution-
-write  your  name
+give  your first  contribution
